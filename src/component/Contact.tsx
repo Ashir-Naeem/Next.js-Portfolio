@@ -10,8 +10,8 @@ const Contact = () => {
         <div className="container">
         <div className="contact-info">
             <div><i className="fas fa-phone-alt"></i> +92 3343103502</div>
-            <div><i className="fas fa-envelope"></i> business.ashirnaeem@gmail.com</div>
-            <div><i className="fas fa-map-marker-alt"></i>Gulshan-e-Iqbal, Karachi, Pakistan</div>
+            <div><i className="fas fa-envelope"></i> business&#45;ashirnaeem@gmail&#45;com</div>
+            <div><i className="fas fa-map-marker-alt"></i>Gulshan&#45;e&#45;Iqbal&#44; Karachi&#44; Pakistan</div>
         </div>
         <div className="contact-form">
             <input type="text" placeholder="Full Name" />

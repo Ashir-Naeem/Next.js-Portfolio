@@ -16,9 +16,9 @@ const About = () => {
             </div>
             <div className='aboutText'>
                 <h1>Ashir Naeem</h1>
-                <h2>Frontend Developer | Next.Js Developer</h2>
+                <h2>Frontend Developer &#124; Next&#46;Js Developer</h2>
                 <p>    
-                 I am a passionate frontend developer specializing in building intuitive and responsive web applications using modern technologies. With a strong foundation in front-end technologies like HTML, CSS, JavaScript, and TypeScript, I transform design concepts into seamless digital experiences. My focus is on writing clean, maintainable code, optimizing performance, and delivering user-friendly interfaces.
+                I am a passionate frontend developer specializing in building intuitive and responsive web applications using modern technologies&#46; With a strong foundation in front&#45;end technologies like HTML&#44; CSS&#44; JavaScript&#44; and TypeScript&#44; I transform design concepts into seamless digital experiences&#46; My focus is on writing clean&#44; maintainable code&#44; optimizing performance&#44; and delivering user&#45;friendly interfaces&#46;
                 </p>
                 <div className='aboutLinks'>
                 <button><Link href={"https://www.linkedin.com/?original_referer="}>LinkedIn</Link></button>

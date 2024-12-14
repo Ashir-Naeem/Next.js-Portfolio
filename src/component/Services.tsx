@@ -29,8 +29,7 @@ const Services = () => {
               </div>
               <div className="description">
                 <p>
-                  Designing layouts that adapt perfectly to any screen size for
-                  a smooth user experience on all devices.
+                Designing layouts that adapt perfectly to any screen size for&#10;a smooth user experience on all devices&#46;
                 </p>
               </div>
             </div>
@@ -44,8 +43,7 @@ const Services = () => {
               </div>
               <div className="description">
                 <p>
-                  Seamlessly integrating third-party APIs to enhance your
-                  application’s functionality and user experience.
+                Seamlessly integrating third&#45;party APIs to enhance your&#10;application&rsquo;s functionality and user experience&#46;
                 </p>
               </div>
             </div>
@@ -60,8 +58,7 @@ const Services = () => {
               </div>
               <div className="description">
                 <p>
-                  Building interactive, user-friendly interfaces that engage
-                  your users and deliver a seamless experience
+                Building interactive&#44; user&#45;friendly interfaces that engage&#10;your users and deliver a seamless experience&#46;
                 </p>
               </div>
             </div>
@@ -76,8 +73,8 @@ const Services = () => {
               </div>
               <div className="description">
                 <p>
-                  Custom content management systems that give you complete
-                  control over your website content without the hassle.
+           Custom content management systems that give you complete
+                  control over your website content without the hassle&#46;      
                 </p>
               </div>
             </div>
@@ -95,8 +92,8 @@ const Services = () => {
               </div>
               <div className="description">
                 <p>
-                  Developing custom e-commerce platforms with secure payment
-                  integration and smooth shopping experiences.
+                  Developing custom e&#45;commerce platforms with secure payment
+                  integration and smooth shopping experiences&#46;
                 </p>
               </div>
             </div>
